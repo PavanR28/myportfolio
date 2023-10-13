@@ -27,7 +27,7 @@ const Hero = () => {
           </h1>
 
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            Full-stack Python developer skilled in ML, cloud computing, and Finance <br className='sm:block hidden' />
+            Full-stack Python developer skilled in ML, cloud computing, and Finance. <br className='sm:block hidden' />
           </p>
 
           <div className="absolute flex items-center">  
